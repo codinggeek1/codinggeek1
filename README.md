@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggeek1" alt="codinggeek1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/applefanboy981" target="blank"><img src="https://img.shields.io/twitter/follow/applefanboy981?logo=twitter&style=for-the-badge" alt="applefanboy981" /></a> </p>
 
 - 🔭 I’m currently working on [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
 
@@ -15,7 +14,7 @@
 
 -    Devfolio [Blog](https://devfolio.co/@pardhivvarma)
 
-- 📫 How to reach me [Mail] : **pardhivvarma.g@gmail.com**
+- 📫 How to reach me **pardhivvarma.g@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15ABK_9-RxNvdElaLmiPI12CoVVU8mqPn/view?usp=sharing)
 
