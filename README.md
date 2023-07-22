@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
 
--    Devfolio https://devfolio.co/@pardhivvarma
+-    Devfolio [Blog](https://devfolio.co/@pardhivvarma)
 
 - 📫 How to reach me **pardhivvarma.g@gmail.com**
 
