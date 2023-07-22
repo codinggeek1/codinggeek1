@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
 
--    Devfolio [https://devfolio.co/@pardhivvarma]
+-    Devfolio (https://devfolio.co/@pardhivvarma)
 
 - 📫 How to reach me **pardhivvarma.g@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ABK_9-RxNvdElaLmiPI12CoVVU8mqPn/view?usp=sharing](https://drive.google.com/file/d/15ABK_9-RxNvdElaLmiPI12CoVVU8mqPn/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15ABK_9-RxNvdElaLmiPI12CoVVU8mqPn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
