@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
 
-- 📫 How to reach me [https://www.linkedin.com/in/g-pardhiv-varma-6230b2242/](https://www.linkedin.com/in/g-pardhiv-varma-6230b2242/)
-
 -    Devfolio [https://devfolio.co/@pardhivvarma)
 
 - 📫 How to reach me **pardhivvarma.g@gmail.com**
