@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/g-pardhiv-varma-6230b2242/](https://www.linkedin.com/in/g-pardhiv-varma-6230b2242/)
 
-- Instagram [https://www.instagram.com/its_pardhivvarma/](https://www.instagram.com/its_pardhivvarma/)
+-    Devfolio [https://devfolio.co/@pardhivvarma)
 
 - 📫 How to reach me **pardhivvarma.g@gmail.com**
 
