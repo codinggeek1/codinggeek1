@@ -14,7 +14,7 @@
 
 -    Devfolio [Blog](https://devfolio.co/@pardhivvarma)
 
-- 📫 How to reach me **pardhivvarma.g@gmail.com**
+- 📫 Mail me @ **pardhivvarma.g@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15ABK_9-RxNvdElaLmiPI12CoVVU8mqPn/view?usp=sharing)
 
