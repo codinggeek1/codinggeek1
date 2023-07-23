@@ -30,5 +30,4 @@
 
 ![codinggeek1's github stats](https://github-readme-stats.vercel.app/api?username=codinggeek1&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinggeek1&theme=radical)<img src="https://github.com/codinggeek1/codinggeek1/blob/main/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codinggeek1&theme=radical)
