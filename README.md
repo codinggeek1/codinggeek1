@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
 
--    Devfolio [Blog](https://devfolio.co/@pardhivvarma)
+-    Devfolio [Blog](https://devfolio.co/@codinggeek1)
 
 - 📫 Mail me @ [Email](mailto:pardhivvarma.g@gmail.com)
 
