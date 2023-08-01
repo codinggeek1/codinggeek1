@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
 
-  <img align='right' src="https://github.com/codinggeek1/codinggeek1/blob/main/img.png" width="230">
+  <img align='center' src="https://github.com/codinggeek1/codinggeek1/blob/main/img.png" width="230">
 
 - 🌱 I’m currently learning **Java**
 
@@ -18,7 +18,7 @@
 
 - 📫 Mail me @ [Email](mailto:pardhivvarma.g@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16Q3dSkNuk1W7DzeyfrAwHg2VaTv6RR5E/view?usp=sharing)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/16Q3dSkNuk1W7DzeyfrAwHg2VaTv6RR5E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
