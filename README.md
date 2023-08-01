@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
 
-  <img align="right" src="https://github.com/codinggeek1/codinggeek1/blob/main/img.png" width="230">
+  <img align="right" src="https://github.com/codinggeek1/codinggeek1/blob/8afa15dd5d0702ec806e042558d719c8ea9ece14/img.png" width="230">
 
 - 🌱 I’m currently learning **Java**
 
