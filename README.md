@@ -6,13 +6,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggeek1&theme=radical&bg_colour=#0E1118" alt="codinggeek1" /></a> </p>
 
 
-- 🔭 I’m currently working on [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
+- 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
 
   <img align='right' src="https://github.com/codinggeek1/codinggeek1/blob/main/img.png" width="230">
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [StaffMastery](https://github.com/codinggeek1/EMPLOYEE-MANAGEMENT-)
+- 🤝 I’m looking for help with [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
 
 -    Devfolio [Blog](https://devfolio.co/@codinggeek1)
 
