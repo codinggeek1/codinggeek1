@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/applefanboy981" target="blank"><img align="center" src=https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Pixel perfect - Flaticon</a> alt="applefanboy981" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/g-pardhiv-varma-6230b2242" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>" alt="g pardhiv varma" height="30" width="40" /></a>
-<a href="https://instagram.com/its_pardhivvarma" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>" alt="its_pardhivvarma" height="30" width="40" /></a>
+<a href="https://twitter.com/applefanboy981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="applefanboy981" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-pardhiv-varma-6230b2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g pardhiv varma" height="30" width="40" /></a>
+<a href="https://instagram.com/its_pardhivvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_pardhivvarma" height="30" width="40" /></a>
 </p>
 
 ---
