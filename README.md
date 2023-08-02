@@ -21,11 +21,9 @@
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/16Q3dSkNuk1W7DzeyfrAwHg2VaTv6RR5E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/applefanboy981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="applefanboy981" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/g-pardhiv-varma-6230b2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g pardhiv varma" height="30" width="40" /></a>
-<a href="https://instagram.com/its_pardhivvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_pardhivvarma" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashwat-chaturvedi-2a68ba187/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Itsshashwat27) 
+[![Instagram](https://img.shields.io/badge/instagram-#E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/its_pardhivvarma)
 
 ---
 
