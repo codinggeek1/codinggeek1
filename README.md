@@ -18,7 +18,7 @@
 
 - 📫 Mail me @ [Email](mailto:pardhivvarma.g@gmail.com)
 
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/16Q3dSkNuk1W7DzeyfrAwHg2VaTv6RR5E/view?usp=sharing)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/13xxYR-7F80r6fs2wiw_2PEY1El8NVHli/view)
 
 <h3 align="left">Connect with me:</h3>
 
