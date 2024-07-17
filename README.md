@@ -6,13 +6,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggeek1&theme=radical&bg_colour=#0E1118" alt="codinggeek1" /></a> </p>
 
 
-- 🔭 I’m currently working on [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
+- 🔭 I’m currently working on [TurboLSTM](https://github.com/codinggeek1/-TurboLSTM---Predictive-Maintenance-for-NASA-C-MAPSS-Engines)
 
   <img align="right" src="https://github.com/codinggeek1/codinggeek1/blob/459c3e2a88279c05371de14b4e2c1c3baf5689de/img.png" width="230">
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [SecureChainHR](https://github.com/codinggeek1/EmployeeManagement)
+- 🤝 I’m looking for help with [TurboLSTM](https://github.com/codinggeek1/-TurboLSTM---Predictive-Maintenance-for-NASA-C-MAPSS-Engines)
 
 -    Devfolio [Blog](https://devfolio.co/@codinggeek1)
 
